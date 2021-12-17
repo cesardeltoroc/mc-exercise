@@ -2,3 +2,5 @@ This is a test and needs to be done four times in order for the lab to be comple
 This is fun.
 What time is it when the clock strikes 13? Time to get a new clock.
 This is the code that is cuasing a merge problem and needs to be removed.
+Where would you find an elephant?
+The same place you lost her.
